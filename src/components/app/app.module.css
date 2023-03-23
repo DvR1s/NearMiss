@@ -1,0 +1,23 @@
+.mainContainer {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.linksContainer {
+  width: 30%;
+  display: flex;
+  margin-top: -25px;
+  margin-bottom: 25px;
+  justify-content: space-around;
+  align-self: flex-end;
+  font-size: 2rem;
+}
+
+.pagesContainer {
+  height: 100%;
+  width: 100%;
+}

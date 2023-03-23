@@ -1,0 +1,58 @@
+.container {
+  border: 2px solid rgba(79, 101, 113, 0.5);
+  background-color: rgba(132, 169, 184, 0.4);
+  border-radius: 10px;
+  height: 90%;
+  width: 32%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  width: 70%;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.related {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box input,
+select {
+  text-align: center;
+  font-size: 1.2rem;
+  background-color: rgba(218, 242, 252, 0.4);
+  border: 1px solid rgba(79, 101, 113, 0.6);
+  border-radius: 5px;
+  height: 30px;
+}
+
+.box textarea {
+  height: 125px;
+  background-color: rgba(218, 242, 252, 0.4);
+  border: 1px solid rgba(79, 101, 113, 0.6);
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+
+.submit {
+  background-color: rgba(218, 242, 252, 0.4);
+  border: 2px solid rgba(79, 101, 113, 0.6);
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  font-size: 1.35rem;
+}

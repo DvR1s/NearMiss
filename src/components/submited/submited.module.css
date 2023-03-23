@@ -1,0 +1,22 @@
+.container {
+  border: 2px solid rgba(79, 101, 113, 0.5);
+  background-color: rgba(132, 169, 184, 0.4);
+  border-radius: 10px;
+  height: 90%;
+  width: 95%;
+}
+
+.box {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  align-items: center;
+  text-align: center;
+  font-size: 1rem;
+  background-color: rgba(79, 101, 113, 0.2);
+  border-bottom: 2px solid rgba(79, 101, 113, 0.5);
+  padding: 10px;
+}
+
+.box h2 {
+  border: 1px solid black;
+}

@@ -1,0 +1,28 @@
+.containerNotCompleted {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  align-items: center;
+  text-align: center;
+  background-color: rgba(211, 75, 75, 0.2);
+  border-bottom: 2px solid rgba(79, 101, 113, 0.5);
+  margin-top: 5px;
+  padding: 8px;
+}
+
+.containerCompleted {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  align-items: center;
+  text-align: center;
+  background-color: rgba(75, 211, 120, 0.2);
+  border-bottom: 2px solid rgba(79, 101, 113, 0.5);
+  margin-top: 5px;
+  padding: 8px;
+}
+
+.button {
+  font-size: 1.2rem;
+  padding: 7px;
+  border-radius: 7px;
+  background-color: rgba(218, 242, 252, 0.4);
+}
