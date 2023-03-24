@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nearmiss/static/css/main.e7c4b08c.css",
-    "main.js": "/nearmiss/static/js/main.fc52ea95.js",
+    "main.js": "/nearmiss/static/js/main.0ee9e4e5.js",
     "index.html": "/nearmiss/index.html",
     "main.e7c4b08c.css.map": "/nearmiss/static/css/main.e7c4b08c.css.map",
-    "main.fc52ea95.js.map": "/nearmiss/static/js/main.fc52ea95.js.map"
+    "main.0ee9e4e5.js.map": "/nearmiss/static/js/main.0ee9e4e5.js.map"
   },
   "entrypoints": [
     "static/css/main.e7c4b08c.css",
-    "static/js/main.fc52ea95.js"
+    "static/js/main.0ee9e4e5.js"
   ]
 }
